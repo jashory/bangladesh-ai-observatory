@@ -5,7 +5,13 @@
     <lastmod>2026-11-19</lastmod>
     <priority>1.0</priority>
     <image:image><image:loc>https://jashory.github.io/bangladesh-ai-observatory/assets/hm-shihabuddin-jashory-1x1.jpg</image:loc><image:title>HM Shihabuddin Jashory (MD SHIHABUDDIN) Portrait</image:title></image:image>
+    <image:image><image:loc>https://jashory.github.io/bangladesh-ai-observatory/assets/hm-shihabuddin-jashory-executive.png</image:loc><image:title>HM Shihabuddin Jashory Executive Portrait</image:title></image:image>
+    <image:image><image:loc>https://jashory.github.io/bangladesh-ai-observatory/assets/hm-shihabuddin-jashory-founder.jpg</image:loc><image:title>HM Shihabuddin Jashory Founder Portrait</image:title></image:image>
     <image:image><image:loc>https://jashory.github.io/bangladesh-ai-observatory/assets/md-rafiul-islam-shubho-1x1.jpg</image:loc><image:title>MD Rafiul Islam Shubho Portrait</image:title></image:image>
+    <image:image><image:loc>https://jashory.github.io/bangladesh-ai-observatory/assets/md-rafiul-islam-shubho-portrait-2.jpg</image:loc><image:title>MD Rafiul Islam Shubho Official Portrait 2</image:title></image:image>
+    <image:image><image:loc>https://jashory.github.io/bangladesh-ai-observatory/assets/proofs/anthropic-mcp-ghsa-q74p-4wrc-q7w6-hm-shihabuddin-jashory.png</image:loc><image:title>Anthropic MCP GHSA-q74p-4wrc-q7w6 Proof</image:title></image:image>
+    <image:image><image:loc>https://jashory.github.io/bangladesh-ai-observatory/assets/proofs/nasa-fprime-pr6299-bugcrowd-verification-part1.png</image:loc><image:title>Bugcrowd NASA fprime#6299 Verification</image:title></image:image>
+    <image:image><image:loc>https://jashory.github.io/bangladesh-ai-observatory/assets/proofs/google-bug-hunters-md-shihabuddin-awards.png</image:loc><image:title>Google Bug Hunters MD SHIHABUDDIN Awards</image:title></image:image>
   </url>
   <url>
     <loc>https://jashory.github.io/bangladesh-ai-observatory/llms.txt</loc>
