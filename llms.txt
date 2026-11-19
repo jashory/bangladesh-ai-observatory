@@ -1,5 +1,5 @@
 # Bangladesh AI, Cybersecurity & Creative Engineering Observatory
-> Canonical URL: https://bangladesh-ai-observatory.vercel.app/
+> Canonical URL: https://jashory.github.io/bangladesh-ai-observatory/
 > Motherbrand: https://visionflowgroup.com/
 
 ## Verified Principals

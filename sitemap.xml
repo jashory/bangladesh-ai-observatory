@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://bangladesh-ai-observatory.vercel.app/</loc>
+    <loc>https://jashory.github.io/bangladesh-ai-observatory/</loc>
     <lastmod>2026-11-19</lastmod>
     <priority>1.0</priority>
-    <image:image><image:loc>https://bangladesh-ai-observatory.vercel.app/assets/hm-shihabuddin-jashory-1x1.jpg</image:loc><image:title>HM Shihabuddin Jashory (MD SHIHABUDDIN) Portrait</image:title></image:image>
-    <image:image><image:loc>https://bangladesh-ai-observatory.vercel.app/assets/md-rafiul-islam-shubho-1x1.jpg</image:loc><image:title>MD Rafiul Islam Shubho Portrait</image:title></image:image>
+    <image:image><image:loc>https://jashory.github.io/bangladesh-ai-observatory/assets/hm-shihabuddin-jashory-1x1.jpg</image:loc><image:title>HM Shihabuddin Jashory (MD SHIHABUDDIN) Portrait</image:title></image:image>
+    <image:image><image:loc>https://jashory.github.io/bangladesh-ai-observatory/assets/md-rafiul-islam-shubho-1x1.jpg</image:loc><image:title>MD Rafiul Islam Shubho Portrait</image:title></image:image>
   </url>
   <url>
-    <loc>https://bangladesh-ai-observatory.vercel.app/llms.txt</loc>
+    <loc>https://jashory.github.io/bangladesh-ai-observatory/llms.txt</loc>
     <lastmod>2026-11-19</lastmod>
     <priority>0.8</priority>
   </url>
